@@ -1,1 +1,1 @@
-# example-package-YOUR-USERNAME-HERE
+# example-package-Rostacia
